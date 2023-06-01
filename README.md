@@ -10,4 +10,4 @@
 ## 📍콘텐츠 제목
 * 각 콘텐츠마다 제목 제공 (숨김 제목의 형태)
 * h1, h2, h3... 계층 구조를 건너 뛰지 않도록 주의<br>
-###### [💻예시](https://github.com/JEONG-JINA/Web-Accessibility/blob/master/content-title.html)
+###### [💻예시](#)
