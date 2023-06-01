@@ -2,7 +2,7 @@
     <h1 class="logo">
         <a href="#">LOGO</a>
     </h1>
-    <button type="button" class="open-btn" aria-label="메뉴 열기"></button>
+    <button type="button" class="open-btn" title="메뉴 열기" aria-label="메뉴 열기"></button>
     <nav class="gnb">
         <h2 class="hidden">메뉴</h2>
         <ul>
@@ -16,8 +16,12 @@
                 <a href="#">메뉴3</a>
             </li>
         </ul>
+        <button type="button" class="close-btn" title="메뉴 닫기" aria-label="메뉴 닫기"></button>
+        <!--
+            aria-hidden="true"
+            스크린 리더가 해당 영역 무시
+        -->
     </nav>
-    <button type="button" class="close-btn" aria-label="메뉴 닫기"></button>
 </header>
 <main>
     <section class="about">
