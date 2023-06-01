@@ -9,4 +9,5 @@
 ###### ex) 모바일 메뉴 제작 시, 내용 탐색 후 마지막에 '닫기 버튼'에 도달하도록 마크업
 
 ## 📍콘텐츠 제목
+h1, h2, h3... 계층 구조를 건너 뛰지 않도록 주
 [예시](https://github.com/JEONG-JINA/Web-Accessibility/blob/master/content-title.html)
